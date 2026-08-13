@@ -22,7 +22,7 @@ My background in **legal investigation** strengthened my approach to evidence as
 
 ## Technical Toolkit
 
-**SQL · Python · Pandas · Power BI · Excel**
+**SQL · Python · Power BI · Excel**
 
 ### AI-Assisted Analytics
 
@@ -54,9 +54,9 @@ I bring this investigative discipline into modern data and business analytics.
 <details>
 <summary><strong>🎓 Certifications & Professional Learning</strong></summary>
 
-- **AI-Enhanced Data Analysis: From Raw Data to Deep Insights** — Microsoft / Coursera
-- **Generative AI Data Analyst** — Vanderbilt University / Coursera
-- **Generative AI SQL Database Specialist with ChatGPT** — Vanderbilt University / Coursera
-- **Google AI Professional Certificate** — Google / Coursera
+- **AI-Enhanced Data Analysis: From Raw Data to Deep Insights** — Microsoft
+- **Generative AI Data Analyst** — Vanderbilt University
+- **Google AI Professional Certificate** — Google 
+- **Generative AI SQL Database Specialist with AI** — Vanderbilt University 
 
 </details>
