@@ -54,7 +54,7 @@ I bring this investigative discipline into modern data and business analytics.
 <details>
 <summary><strong>🎓 Certifications & Professional Learning</strong></summary>
 
-- **SQL Foundations** — Microsoft-authorized course via Coursera
+- **AI-Enhanced Data Analysis: From Raw Data to Deep Insights** — Microsoft / Coursera
 - **Generative AI Data Analyst** — Vanderbilt University / Coursera
 - **Generative AI SQL Database Specialist with ChatGPT** — Vanderbilt University / Coursera
 - **Google AI Professional Certificate** — Google / Coursera
