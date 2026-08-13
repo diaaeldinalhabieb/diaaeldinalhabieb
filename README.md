@@ -1,16 +1,14 @@
-# Diaaeldin Alhabieb
-
-## 🧠 About
+## About
 
 I approach data analysis as an **investigative and decision-support discipline** — starting with the business question, validating the evidence, and staying within what the data can legitimately support.
 
 **Question → Validation → Evidence → Analysis → Insight → Recommendation**
 
-My background in **legal investigation** strengthened my approach to evidence assessment, source verification, structured reasoning, and analytical documentation. I now apply that mindset to data and business analytics.
+My background in **legal investigation** strengthened my approach to evidence assessment, source verification, structured reasoning, and analytical documentation. I now apply that investigative discipline to data and business analytics.
 
 ---
 
-## 🔎 Core Strengths
+## Core Strengths
 
 - Business problem framing & analytical question design
 - Evidence-driven analysis & data validation
@@ -22,7 +20,7 @@ My background in **legal investigation** strengthened my approach to evidence as
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 **SQL · Python · Pandas · Power BI · Excel**
 
@@ -39,7 +37,7 @@ I use AI to accelerate analysis, exploration, SQL development, documentation, an
 <details>
 <summary><strong>⚖️ Professional Background</strong></summary>
 
-My previous professional experience in **legal investigation** developed strengths in:
+My professional background in **legal investigation** developed strengths in:
 
 - Evidence assessment
 - Source verification
